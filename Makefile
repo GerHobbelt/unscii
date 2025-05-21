@@ -1,4 +1,5 @@
 SRC=src/unscii.txt src/punctuation.txt src/numbers.txt src/math.txt \
+src/mathematicalalphabet.txt \
 src/textsymbols.txt src/latin.txt src/greek.txt src/cyrillic.txt \
 src/hebrew.txt src/arabic.txt src/katakana.txt src/runes.txt \
 src/diacritics.txt src/symbols.txt src/arrows.txt src/shapes.txt \
