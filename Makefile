@@ -1,4 +1,48 @@
-SRC=src/punctuation.txt src/numbers.txt src/math.txt src/mathematicalalphabet.txt src/textsymbols.txt src/latin.txt src/greek.txt src/cyrillic.txt src/hebrew.txt src/arabic.txt src/katakana.txt src/runes.txt src/wideascii.txt src/diacritics.txt src/diacrcomb.txt src/symbols.txt src/arrows.txt src/divisions.txt src/lines.txt src/shapes.txt src/grids.txt src/patterns.txt src/pictures.txt src/ctrl.txt
+SRC=                          \
+src/arabic.txt                \
+src/arrows.txt                \
+src/ctrl.txt                  \
+src/cyrillic.txt              \
+src/diacrcomb.txt             \
+src/diacritics.txt            \
+src/divisions.txt             \
+src/font-alt.txt              \
+src/font-arcade.txt           \
+src/font-atari8.txt           \
+src/font-bbcg.txt             \
+src/font-bbcg16.txt           \
+src/font-c64.txt              \
+src/font-cpc.txt              \
+src/font-fantasy.txt          \
+src/font-mc6670p.txt          \
+src/font-mc6847t1.txt         \
+src/font-mcr.txt              \
+src/font-pc16.txt             \
+src/font-pc8.txt              \
+src/font-pet.txt              \
+src/font-pet16.txt            \
+src/font-spectrum.txt         \
+src/font-st.txt               \
+src/font-thin.txt             \
+src/font-topaz.txt            \
+src/greek.txt                 \
+src/grids.txt                 \
+src/hebrew.txt                \
+src/katakana.txt              \
+src/latin.txt                 \
+src/lines.txt                 \
+src/math.txt                  \
+src/mathematicalalphabet.txt  \
+src/numbers.txt               \
+src/patterns.txt              \
+src/pictures.txt              \
+src/punctuation.txt           \
+src/runes.txt                 \
+src/shapes.txt                \
+src/symbols.txt               \
+src/textsymbols.txt           \
+src/unscii.txt                \
+src/wideascii.txt
 HEX=fontfiles/unscii-16.hex fontfiles/unscii-8.hex fontfiles/unscii-16-full.hex fontfiles/unscii-8-tall.hex fontfiles/unscii-8-thin.hex fontfiles/unscii-8-alt.hex fontfiles/unscii-8-fantasy.hex fontfiles/unscii-8-mcr.hex fontfiles/unscii-16-pc16.hex fontfiles/unscii-8-pc8.hex \
     fontfiles/unscii-8-alt-only.hex fontfiles/unscii-8-arcade-only.hex fontfiles/unscii-8-atari8-only.hex fontfiles/unscii-8-bbcg-only.hex fontfiles/unscii-16-bbcg-only.hex fontfiles/unscii-8-c64-only.hex fontfiles/unscii-8-cpc-only.hex fontfiles/unscii-8-dragon-only.hex fontfiles/unscii-8-fantasy-only.hex fontfiles/unscii-8-mcr-only.hex fontfiles/unscii-16-pc16-only.hex fontfiles/unscii-8-pc8-only.hex fontfiles/unscii-8-pet-only.hex fontfiles/unscii-16-pet-only.hex fontfiles/unscii-8-spectrum-only.hex fontfiles/unscii-8-st-only.hex fontfiles/unscii-8-topaz-only.hex fontfiles/unscii-8-trs80-only.hex
 
